@@ -1,6 +1,6 @@
 # Şule Özdamar
 
-Computer Engineering student at İstanbul Arel University. I work on **convolutional neural networks for computer vision** — aerial and thermal imagery, radar target recognition, semantic segmentation and medical imaging — and on **data quality and large language models**. My goal is to build AI systems that hold up from data to deployment, with evaluations that measure what they claim to measure.
+Computer Engineering student at İstanbul Arel University. I work on **convolutional neural networks for computer vision** — aerial and thermal imagery, radar target recognition, semantic segmentation and medical imaging for cancer and dementia — and on **data quality and large language models**. My goal is to build AI systems that hold up from data to deployment, with evaluations that measure what they claim to measure.
 
 ## Projects
 
@@ -8,6 +8,8 @@ Computer Engineering student at İstanbul Arel University. I work on **convoluti
 |---|---|---|
 | [SAR Target Recognition with CNNs](https://github.com/mahdildarr/sar-target-recognition) | Radar target recognition on MSTAR; A-ConvNet vs ResNet; a shortcut-learning test for background bias | PyTorch · CNN · Grad-CAM |
 | [Safe Landing-Zone Detection for UAVs](https://github.com/mahdildarr/uav-safe-landing-segmentation) | U-Net semantic segmentation of drone imagery and a rule-based landing-zone search; ONNX / INT8 deployment | PyTorch · U-Net · ONNX Runtime |
+| [Breast-Cancer Metastasis Detection Across Hospitals](https://github.com/mahdildarr/pathology-domain-shift) | Histopathology on Camelyon17-WILDS: unseen-hospital generalisation, stain normalisation vs augmentation, calibration | PyTorch · DenseNet · ResNet |
+| [Does the Melanoma Classifier Look at the Lesion?](https://github.com/mahdildarr/melanoma-shortcut-analysis) | HAM10000: lesion-level evaluation, lesion-masking shortcut tests, acquisition bias | PyTorch · ResNet · Grad-CAM |
 | [Small Object Detection and Tracking in UAV Imagery](https://github.com/mahdildarr/uav-small-object-detection) | Small object detection on VisDrone, sliced inference, ByteTrack tracking | PyTorch · YOLO · SAHI · ByteTrack |
 | [Person and Vehicle Detection in Thermal UAV Imagery](https://github.com/mahdildarr/thermal-detection-hituav) | Detection on HIT-UAV thermal data and the visible-light to thermal domain gap | PyTorch · YOLO · OpenCV |
 | [Subject-Level Evaluation for Alzheimer's MRI](https://github.com/mahdildarr/alzheimer-mri) | Measuring data leakage with slice- vs subject-level splits; Grad-CAM | PyTorch · ResNet · Grad-CAM |
