@@ -1,6 +1,6 @@
 # Şule Özdamar
 
-Computer Engineering student at İstanbul Arel University. I work on **convolutional neural networks for computer vision** — aerial and thermal imagery, radar target recognition, semantic segmentation and medical imaging for cancer and dementia — and on **data quality and large language models**. My goal is to build AI systems that hold up from data to deployment, with evaluations that measure what they claim to measure.
+Computer Engineering student at İstanbul Arel University. I work on **convolutional neural networks for computer vision** (aerial and thermal imagery, radar target recognition, semantic segmentation and medical imaging for cancer and dementia) and on **data quality and large language models**. My goal is to build AI systems that hold up from data to deployment, with evaluations that measure what they claim to measure.
 
 ## Projects
 
@@ -18,10 +18,10 @@ Computer Engineering student at İstanbul Arel University. I work on **convoluti
 
 ## Other work
 
-- **Alzheimer's MRI research** — within a TÜBİTAK 1005 project proposal, together with Assoc. Prof. Pınar Karadayı Ataş
-- **MİL-SYNTH** — AI and synthetic data for the defense industry · TÜBİTAK BiGG DeepCube program
-- **AVD Teknoloji** — AI training work on large language models
-- **Merkütech Rocket Team** — avionics and AI
+- **Alzheimer's MRI research**: within a TÜBİTAK 1005 project proposal, together with Assoc. Prof. Pınar Karadayı Ataş
+- **MİL-SYNTH**: AI and synthetic data for the defense industry · TÜBİTAK BiGG DeepCube program
+- **AVD Teknoloji**: AI training work on large language models
+- **Merkütech Rocket Team**: avionics and AI
 
 ## Tech stack
 
